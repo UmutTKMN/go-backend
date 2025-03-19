@@ -1,6 +1,6 @@
 # Go Web Projesi
 
-Bu proje, modern web uygulamaları geliştirmek için Go programlama dili kullanılarak oluşturulmuş bir web uygulamasıdır. Aynı zamanda Go dilini öğrenme sürecimin bir parçası olarak geliştirilmektedir.
+Bu proje, modern web uygulamaları geliştirmek için Go programlama dili kullanılarak oluşturulmuş bir web-api uygulamasıdır. Aynı zamanda Go dilini öğrenme sürecimin bir parçası olarak geliştirilmektedir.
 
 ## 🚀 Özellikler
 
