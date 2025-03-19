@@ -1,4 +1,4 @@
-module github.com/UmutTKMN/gobackend
+module github.com/UmutTKMN/go-backend
 
 go 1.24.1
 

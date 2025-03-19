@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/UmutTKMN/gobackend/configs"
-	"github.com/UmutTKMN/gobackend/internal/app/model"
+	"github.com/UmutTKMN/go-backend/configs"
+	"github.com/UmutTKMN/go-backend/internal/app/model"
 	"gorm.io/driver/postgres"
 	"gorm.io/gorm"
 	"gorm.io/gorm/logger"

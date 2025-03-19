@@ -13,8 +13,8 @@ Projeyi çalıştırmak için aşağıdaki gereksinimlere ihtiyacınız vardır:
 ## Adım 1: Projeyi Klonlama
 
 ```bash
-git clone https://github.com/UmutTKMN/gobackend.git
-cd gobackend
+git clone https://github.com/UmutTKMN/go-backend.git
+cd go-backend
 ```
 
 ## Adım 2: Bağımlılıkları Yükleme
@@ -49,9 +49,9 @@ go mod download
    PostgreSQL komut satırında:
 
    ```sql
-   CREATE DATABASE gobackend;
-   CREATE USER gobackenduser WITH ENCRYPTED PASSWORD 'yourpassword';
-   GRANT ALL PRIVILEGES ON DATABASE gobackend TO gobackenduser;
+   CREATE DATABASE go-backend;
+   CREATE USER go-backenduser WITH ENCRYPTED PASSWORD 'yourpassword';
+   GRANT ALL PRIVILEGES ON DATABASE go-backend TO go-backenduser;
    \q
    ```
 
@@ -72,9 +72,9 @@ go mod download
    # Database
    DB_HOST=localhost
    DB_PORT=5432
-   DB_USER=gobackenduser
+   DB_USER=go-backenduser
    DB_PASSWORD=yourpassword
-   DB_NAME=gobackend
+   DB_NAME=go-backend
    DB_SSLMODE=disable
    
    # JWT

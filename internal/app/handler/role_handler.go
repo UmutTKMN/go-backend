@@ -4,8 +4,8 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/UmutTKMN/gobackend/internal/app/model"
-	"github.com/UmutTKMN/gobackend/internal/app/services"
+	"github.com/UmutTKMN/go-backend/internal/app/model"
+	"github.com/UmutTKMN/go-backend/internal/app/services"
 	"github.com/gin-gonic/gin"
 )
 

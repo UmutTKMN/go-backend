@@ -46,8 +46,8 @@ Bu proje, modern web uygulamaları geliştirmek için Go programlama dili kullan
 1. Projeyi klonlayın:
 
 ```bash
-git clone https://github.com/UmutTKMN/gobackend.git
-cd gobackend
+git clone https://github.com/UmutTKMN/go-backend.git
+cd go-backend
 ```
 
 2. Bağımlılıkları yükleyin:
@@ -91,7 +91,7 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICE
 
 Umut TKMN - [@UmutTKMN](https://github.com/UmutTKMN)
 
-Proje Linki: [https://github.com/UmutTKMN/gobackend](https://github.com/UmutTKMN/gobackend)
+Proje Linki: [https://github.com/UmutTKMN/go-backend](https://github.com/UmutTKMN/go-backend)
 
 ## 📚 Öğrenme Kaynakları
 

@@ -3,8 +3,8 @@ package handler
 import (
 	"net/http"
 
-	"github.com/UmutTKMN/gobackend/internal/app/services"
-	"github.com/UmutTKMN/gobackend/internal/pkg/middleware"
+	"github.com/UmutTKMN/go-backend/internal/app/services"
+	"github.com/UmutTKMN/go-backend/internal/pkg/middleware"
 	"github.com/gin-gonic/gin"
 )
 

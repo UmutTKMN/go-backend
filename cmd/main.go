@@ -4,11 +4,11 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/UmutTKMN/gobackend/configs"
-	"github.com/UmutTKMN/gobackend/internal/app/handler"
-	"github.com/UmutTKMN/gobackend/internal/app/services"
-	"github.com/UmutTKMN/gobackend/internal/pkg/database"
-	"github.com/UmutTKMN/gobackend/internal/pkg/middleware"
+	"github.com/UmutTKMN/go-backend/configs"
+	"github.com/UmutTKMN/go-backend/internal/app/handler"
+	"github.com/UmutTKMN/go-backend/internal/app/services"
+	"github.com/UmutTKMN/go-backend/internal/pkg/database"
+	"github.com/UmutTKMN/go-backend/internal/pkg/middleware"
 	"github.com/gin-gonic/gin"
 )
 

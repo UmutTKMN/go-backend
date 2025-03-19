@@ -5,10 +5,10 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/UmutTKMN/gobackend/configs"
-	"github.com/UmutTKMN/gobackend/internal/app/model"
-	"github.com/UmutTKMN/gobackend/internal/app/services"
-	"github.com/UmutTKMN/gobackend/internal/pkg/database"
+	"github.com/UmutTKMN/go-backend/configs"
+	"github.com/UmutTKMN/go-backend/internal/app/model"
+	"github.com/UmutTKMN/go-backend/internal/app/services"
+	"github.com/UmutTKMN/go-backend/internal/pkg/database"
 	"github.com/gin-gonic/gin"
 	"github.com/golang-jwt/jwt/v5"
 )

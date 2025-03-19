@@ -3,8 +3,8 @@ package services
 import (
 	"errors"
 
-	"github.com/UmutTKMN/gobackend/internal/app/model"
-	"github.com/UmutTKMN/gobackend/internal/pkg/database"
+	"github.com/UmutTKMN/go-backend/internal/app/model"
+	"github.com/UmutTKMN/go-backend/internal/pkg/database"
 	"gorm.io/gorm"
 )
 

@@ -224,8 +224,8 @@ func ValidateUserInput(c *gin.Context) (*models.UserInput, error) {
 `deployments/docker/Dockerfile` dosyasını kullanarak container oluşturun:
 
 ```bash
-docker build -t gobackend -f deployments/docker/Dockerfile .
-docker run -p 8080:8080 gobackend
+docker build -t go-backend -f deployments/docker/Dockerfile .
+docker run -p 8080:8080 go-backend
 ```
 
 ### Kubernetes
